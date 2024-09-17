@@ -35,9 +35,9 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cykoravish/amazon-clone.git
-   cd amazon-clone
-   open amazon.html
+   git clone https://github.com/cykoravish/Amazon-clone-with-vanilla-js.git
+   cd Amazon-clone-with-vanilla-js
+   open amazon.html with live server
   ```
 
 ## License
